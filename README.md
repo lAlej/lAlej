@@ -1,11 +1,11 @@
-<h1 align="center">Hola ✌, mi nombre es Luis Peña</h1>
-<h3 align="center">Frontend Developer apasionado por la programación y tecnología 💻🖱</h3>
+<h1 align="center">Hi ✌, my name is Luis Pena</h1>
+<h3 align="center">Frontend Developer passionate about programming and technology 💻🖱</h3>
 
-- 📖 Actualmente estoy **ampliando mis conocimientos de ReactJS**
+- 📖 Currently **learning Backend languages**
 
-- 💬 Puedes preguntarme sobre **HTML, CSS, Javascript, ReactJS**
+- 💬 You can ask me about **HTML, CSS, Javascript, ReactJS, React Native**
 
-- 📫 Me puedes contactar por **l.a.esteves99@gmail.com**
+- 📫 You can contact me **l.a.esteves99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
