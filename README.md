@@ -1,9 +1,9 @@
 <h1 align="center">Hi ✌, my name is Luis Pena</h1>
 <h3 align="center">Frontend Developer passionate about programming and technology 💻🖱</h3>
 
-- 📖 Currently **learning Backend languages**
+- 📖 Knowledges **NodeJS, MongoDB, MySQL**
 
-- 💬 You can ask me about **HTML, CSS, Javascript, ReactJS, React Native**
+- 💬 You can ask me about **HTML, CSS, Javascript, ReactJS, MateriaulUI**
 
 - 📫 You can contact me **l.a.esteves99@gmail.com**
 
