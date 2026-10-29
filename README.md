@@ -23,26 +23,13 @@
 - 🌱 I learn by building: every project below started from wanting to understand a tool better.
 - 🌐 My portfolio is bilingual (ES / EN): **[lpena.vercel.app](https://lpena.vercel.app/)**
 
-## 🚀 Featured project
-
-<table>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/lAlej/portwatch">Portwatch</a></h3>
-      A self-hosted web dashboard to manage the Docker containers on a server. A lightweight alternative to Portainer that does a few things well: live host and container metrics, start / pause / restart / kill, live logs in a terminal viewer, and deploys from a Git repo or a pasted <code>docker-compose</code> file.
-      <br /><br />
-      <img src="https://skillicons.dev/icons?i=nodejs,express,ts,react,vite,tailwind,docker" alt="Portwatch stack" />
-    </td>
-  </tr>
-</table>
-
-### More projects
+## 🚀 Projects
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [**Caída Online**](https://github.com/lAlej/caida-on) | The Venezuelan card game Caída, playable online with 2 to 4 players. A WebSocket server applies every rule, bots cover disconnected players, and a dropped connection returns you to your seat | React · TypeScript · Express · WebSocket · Zod · Vite |
+| [**Portwatch**](https://github.com/lAlej/portwatch) | A self-hosted web dashboard to manage the Docker containers on a server: live host and container metrics, start / pause / restart / kill, live logs in a terminal viewer, and deploys from a Git repo or a `docker-compose` file | Node · Express · Socket.IO · React · Tailwind · Docker |
 | [**Url Shortener**](https://github.com/lAlej/short-it) · [live](https://short-it-steel.vercel.app/) | Shorten long links to share them easily | Next.js · TypeScript · Prisma · PostgreSQL · MUI |
-| [**Pokedex**](https://github.com/lAlej/pokedex-con-react) · [live](https://lalej.github.io/pokedex-con-react/) | Browse Pokémon, search by name and see their stats | React · PokeApi · Axios |
-| [**Rick and Morty App**](https://github.com/lAlej/rick-and-morty-app) · [live](https://lalej.github.io/rick-and-morty-app/#/) | Browse and search characters from the show | React · Bootstrap |
 
 ## 🧰 Tech stack
 
